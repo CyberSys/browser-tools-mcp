@@ -1,4 +1,7 @@
+THIS PROJECT IS NO LONGER ACTIVE PLEASE USE A DIFFERENT SOLUTION FOR THIS. 
+
 # BrowserTools MCP
+
 
 > Make your AI tools 10x more aware and capable of interacting with your browser
 
